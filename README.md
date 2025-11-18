@@ -126,6 +126,7 @@ Dinner: Tofu stir-fry with broccoli, carrots, and brown rice.
 
 
 ## License
+## Author: kashaf mehmood
 
 This project is licensed under the **MIT License**.
 
